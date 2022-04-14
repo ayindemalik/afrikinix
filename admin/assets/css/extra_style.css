@@ -1,0 +1,21 @@
+.msg {
+  width: 100%;
+  list-style-type: none;
+  margin: 5px auto;
+  padding: 7px;
+  box-sizing: border-box;
+  border-radius: 3px;
+  font-size: 14px
+}
+
+.error {
+  color: #884b4b;
+  background: rgb(245, 188, 188);
+  border: 1px solid #6e3a3d;
+}
+
+.success {
+  color: #3a6e3a;
+  background: #bcf5bc;
+  border: 1px solid #3a6e3a;
+}
